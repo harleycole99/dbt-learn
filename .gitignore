@@ -3,3 +3,4 @@ target/
 dbt_modules/
 logs/
 dbt_internal_packages/
+jaffle-shop-507610-c2bb0e7c110c.json
